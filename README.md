@@ -7,4 +7,4 @@ Our dataset consists of web-scraped Google images using SerpAPI
 
 For the front-end, we used HTML/CSS/JS along with a Bootstrap Template, pairing it with Flask as our back-end
 
-Try our model [here!](https://beep-beep-ai.2023-summer-computer-vision.repl.co/static/index.html)
+Try our model [here!](https://beepbeepai.com/static/index.html)
